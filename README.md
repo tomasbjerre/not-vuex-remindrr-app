@@ -1,10 +1,10 @@
 # vuex-remindrr-app
 
-![Cover](https://github.com/malgamves/vuex-remindrr-app/blob/master/src/assets/vuex-app.gif)
+![Cover](https://github.com/malgamves/vuex-remindrr-app/blob/master/public/images/vuex-app.gif)
 
 Check out the [Demo]()
 
-Blogpost [pending]()
+Blogpost [pending...]()
 
 ## Project setup
 ```
