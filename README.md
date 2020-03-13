@@ -4,7 +4,7 @@
 
 Check out the [Demo]()
 
-Blogpost [pending...]()
+Blogpost - [Vuex: Why We Need SPA State Management](https://dev.to/malgamves/vuex-why-we-need-spa-state-management-42cj)
 
 ## Project setup
 ```
